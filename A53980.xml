@@ -1,0 +1,600 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd at Whitehall before the Queen, March the sixteenth, 1691 by Edward Pelling ...</title>
+            <author>Pelling, Edward, d. 1718.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53980</idno>
+            <idno type="STC">Wing P1101</idno>
+            <idno type="STC">ESTC R6815</idno>
+            <idno type="EEBO-CITATION">11966658</idno>
+            <idno type="OCLC">ocm 11966658</idno>
+            <idno type="VID">51739</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53980)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51739)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 818:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd at Whitehall before the Queen, March the sixteenth, 1691 by Edward Pelling ...</title>
+                  <author>Pelling, Edward, d. 1718.</author>
+               </titleStmt>
+               <extent>[2], 31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Crooke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694.</term>
+               <term>Bible. --  N.T. --  Colossians I, 12 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:51739:1"/> 
+               <pb facs="tcp:51739:1"/> A SERMON Preach'd at WHITE-HALL Before
+the QUEEN, <hi>March</hi> the Sixteenth, 1691.</p>
+            <p>BY <hi>EDWARD PELLING,</hi> D. D. Chaplain in Ordinary to Their
+Majeſties, and Rector of <hi>Petworth</hi> in <hi>Suſſex.</hi>
+            </p>
+            <p>
+               <hi>Publiſh'd by Her Majeſty's Special Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. Crooke,</hi> at the
+<hi>Green-Dragon</hi> without <hi>Temple-Bar,</hi> MDC XCII.</p>
+            <pb facs="tcp:51739:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:51739:2"/>
+            <head>COLOSS. I. 12.</head>
+            <argument>
+               <p>Giving thanks unto the Father, which hath made us meet to be
+partakers of the inheritance of the Saints in Light.</p>
+            </argument>
+            <p>IT may be otherwiſe rendred thus, and more agreeably to the
+Original; <hi>Who hath fitted us for a ſhare of the inheritance of the Saints
+in Light:</hi> Which St. <hi>Chryſoſtom</hi> doth reckon to be a very
+Signal Act of the Wiſdom and Goodneſs of God; that he doth not only tender
+us the Felicities of Hea<g ref="char:EOLhyphen"/>ven; but moreover, qualifies and fits us for the
+Enjoyment of them. This, ſaith he, is a double favour, to offer, and to fit
+us too. Honour is loſt, when 'tis thrown away upon an improper and unfit
+Perſon. And hence St. <hi>Chryſoſtom</hi> argues, That though God's
+pre<g ref="char:EOLhyphen"/>paring a Kingdom for us, be a great expreſ<g ref="char:EOLhyphen"/>ſion of his free Grace and
+Goodneſs, not me<g ref="char:EOLhyphen"/>rited in the leaſt by any Performances of ours,
+<pb n="2" facs="tcp:51739:3"/> yet the preparing of us for that Kingdom, the fitting of us
+to enter into it; this is the main Thing, the greateſt Work and Bleſſing
+of all: And for that Reaſon it is, that St. <hi>Paul</hi> doth here give God
+ſuch hearty Thanks for his unſpeakable Goodneſs and Mercy, in making us
+meet (or fit) <hi>to be par<g ref="char:EOLhyphen"/>takers of the inheritance of the Saints in
+Light.</hi>
+            </p>
+            <p>In Diſcourſing upon which Words, I ſhall,</p>
+            <p n="1">I. Firſt ſhew, That, in order to the En<g ref="char:EOLhyphen"/>joyment of the
+Felicities of another World, it is neceſſary for us to be fitted and
+qualified for them in this.</p>
+            <p n="2">II. Wherein that Fitneſs doth Conſiſt, or what thoſe
+things are, which directly ſerve to fit us.</p>
+            <p n="3">III. And then, in the Laſt Place, I ſhall draw down this
+Speculation to our Pra<g ref="char:EOLhyphen"/>ctice.</p>
+            <p n="1">
+               <pb n="3" facs="tcp:51739:3"/> 1. That in order to the Enjoyment of the
+Felicities of another World, it is highly ne<g ref="char:EOLhyphen"/>ceſſary for us to be fitted
+for them in this; to be made meet, and apt, and rightly qualifi'd for the
+Enjoyment of them. My meaning is, that though we uſe the Means of Grace and
+Salvation, as the hearing of God's Word, Prayer, the Receiving of the Holy
+Sacrament, and the like; though we believe all the Doctrines of our Religion;
+and though we be fully ſatisfied of the Truth of God, and comfort our
+ſelves with confident Expectations of God's Good<g ref="char:EOLhyphen"/>neſs and Mercy; yet,
+beſides and beyond all this, there is required ſuch a Temper of Mind,
+ſuch a Diſpoſition and Frame of Soul, as is ſuitable to that
+Bleſſed State, which is the Portion <hi>of the Saints in Light.</hi>
+            </p>
+            <p>The Reaſon of this is drawn from the Common Notion of
+Happineſs. For after all the nice Diſputes which have been about it,
+Happineſs muſt be a State of Delight <pb n="4" facs="tcp:51739:4"/> and Pleaſure,
+reſulting from the Congruity between the Object and the Deſire. What<g ref="char:EOLhyphen"/>ever
+it be that is prepared to make one Happy, though it be never ſo good, he
+can<g ref="char:EOLhyphen"/>not find true Happineſs in it, if it be diſ<g ref="char:EOLhyphen"/>agreeable to his Mind, or
+ſhort of his De<g ref="char:EOLhyphen"/>ſires; ſo that he cannot enjoy it with Com<g ref="char:EOLhyphen"/>placency and
+Delight; becauſe in ſuch a Caſe, ones Soul would be unſatisfied and
+uneaſie, which is utterly inconſiſtent with a State of Happineſs,
+eſpecially ſuch a Per<g ref="char:EOLhyphen"/>fect State of Happineſs, as the <hi>Saints in
+Light</hi> enjoy. Heaven it ſelf could not be a Place of Pleaſure to ſuch
+Souls, as cannot love or relliſh ſo Divine Entertainments, nor care to be
+acquainted with them. For by Heaven is underſtood, not only a Glorious Place,
+where the Spirits of Juſt Men live, without any Senſe of Miſery and Pain;
+but moreover a Perfect State, wherein all thoſe things are fully prepared,
+which the Powers and Faculties of every Holy Soul do reach after here, with a
+greedy and reſtleſs Appe<g ref="char:EOLhyphen"/>tite, as the only proper Object for a
+Rea<g ref="char:EOLhyphen"/>ſonable Soul to be employ'd about. It <pb n="5" facs="tcp:51739:4"/> includes a
+Perfection of Knowledge; whereby the Mind doth with tranſcendent Pleaſure
+perceive, whatever the Underſtand<g ref="char:EOLhyphen"/>ing is capable of perceiving; and a
+Per<g ref="char:EOLhyphen"/>fection of Enjoyment, whereby the Will is, with tranſcendent
+ſatisfaction, gratified with whatever it is capable of Deſiring. To render
+therefore this Pleaſure and Satisfacti<g ref="char:EOLhyphen"/>on, and conſeuently this
+Happineſs, Per<g ref="char:EOLhyphen"/>fect, there muſt of neceſſity be a Corre<g ref="char:EOLhyphen"/>ſpondence and
+Suitableneſs, between the Powers of the Soul, and the Things of Hea<g ref="char:EOLhyphen"/>ven: The
+Faculties muſt be of ſuch a Diſ<g ref="char:EOLhyphen"/>poſition and Temper, as anſwers and
+a<g ref="char:EOLhyphen"/>grees with the Nature of the Things. For<g ref="char:EOLhyphen"/>ced Enjoyments can never be
+delightful; to be ſure not ſo perfectly delightful, as Enjoy<g ref="char:EOLhyphen"/>ments that we
+deſire.</p>
+            <p>Hence it follows, That it is of infinite Concernment to us, while
+we live in this World, ſo to mould our Tempers, and ſo to trans<g ref="char:EOLhyphen"/>form our
+Minds, that our whole Soul may be of a Complexion and Frame, agreeable to that
+Heavenly State, which is <hi>the inheritance of</hi> 
+               <pb n="6" facs="tcp:51739:5"/> 
+               <hi>the
+Saints in Light.</hi> 'Tis as much as our Souls are worth, to do it, and to do
+it now; be<g ref="char:EOLhyphen"/>cauſe there is nothing between this World and another, but Death;
+and that can never alter a Man's whole State ſo, as to make him fit for that,
+which he was not fit for before: Death does only give the Soul a Paſſage
+into another World; it doth not change its Incli<g ref="char:EOLhyphen"/>nations and Habits. Thoſe
+are things which we are here a long while Contracting, and conſequently
+muſt require a long time to change and alter them. An Habit of Ver<g ref="char:EOLhyphen"/>tue is not
+infuſed into the Soul in an Inſtant, but is acquired by degrees, by a
+conſtant Repetition of Vertuous Acts; nor is this to be done, but by the
+Aſſiſtance and Co-opera<g ref="char:EOLhyphen"/>tion of God's Spirit, ſowing in our Nature a
+ſeminal Principle of a New Life, and both Preventing and Furthering us in all
+our Works. Now this great Work can be done but once, and this Life is the only
+time for it. For when Death comes, there is an End of the H. Spirit's
+Operations, and the Spirit of a Man is paſt all mending. There can be no
+Repentance in the Grave, nor any right <pb n="7" facs="tcp:51739:5"/> Repentance in Hell it
+ſelf. Though there muſt needs be Sorrow where there is ſuch Torment, yet
+it is a Sorrow not for Sin, but for the Rewards of it; no Godly Sor<g ref="char:EOLhyphen"/>row that
+reneweth the Heart: The Soul is ſtill diſpoſed, as before, like a Wild
+Creature that retains its Nature, though it be ſhut up within a Grate.
+Heaven, indeed, is a Place where a Soul is perfected; but yet it is, not by
+changing its Habits and Qualities, but by crowning them with Glory. A Life of
+Vertue and Holineſs, is conſummated and made unchangeable, but not begun
+there. In ſhort, it is impoſſible to conceive how that habitual Bent and
+Biaſs, which is in the Heart of every wicked Man, can be total<g ref="char:EOLhyphen"/>ly and finally
+rectified, meerly by the paſſing of his Soul out of one World into another,
+and that too againſt its Will and Deſires. Such a Soul therefore could not
+be happy among <hi>the Saints in Light,</hi> were it admitted into that
+Society; becauſe a Carnal Mind is ſo far from reliſhing thoſe Divine
+Pleaſures, <hi>which are at God's right hand,</hi> that it is at Enmity
+a<g ref="char:EOLhyphen"/>gainſt them, and againſt God himſelf.</p>
+            <p>
+               <pb n="8" facs="tcp:51739:6"/> This I take to be one great Reaſon, why God
+hath given us ſo many Laws of Vertue, that thereby he may make us
+Veſ<g ref="char:EOLhyphen"/>ſels fit for Glory; fit for that Happineſs, which, of his infinite
+Goodneſs, he hath provided for all his poor Creatures, which are capable of
+receiving it; and, which he deſires to Communicate to us all, not wil<g ref="char:EOLhyphen"/>ling
+that any ſhould periſh. Though the Practice of Vertue be Reaſonable and
+Ex<g ref="char:EOLhyphen"/>cellent in it ſelf; and though it brings with it ſuch Peace, and
+Comfort, and Satisfaction here, as is preferrable to all the Glories under the
+Sun; yet the uſefulneſs of it another Day, and in another Place, is the
+main Thing conſiderable. God, who dwells him<g ref="char:EOLhyphen"/>ſelf in Heaven, knows what we
+are to do, and how we are to live there, and which are the beſt means to
+prepare and fit us for an Heavenly State. Though the Rea<g ref="char:EOLhyphen"/>ſons of every
+Particular Vertue may not at preſent be ſo obvious to our view, yet God
+ſees them; He knows whither every Vertue ultimately tendeth; and how it
+ſerves <pb n="9" facs="tcp:51739:6"/> to Subdue, to Regulate, to Purifie our Minds; to
+Raiſe our Affections; to Refine our Natures, and to Cultivate our Souls; ſo
+that every Particular Grace and Vertue now, may ſpring up into a Life of
+perfect Glory and Happineſs hereafter.</p>
+            <p>From which Premiſes, theſe Four things muſt follow.</p>
+            <p n="1">1. Firſt, That we may not in any wiſe build our Hopes of
+Eternal Happineſs, upon any Decree of God, without due Prepara<g ref="char:EOLhyphen"/>tions of our
+own. For God's Decrees ſup<g ref="char:EOLhyphen"/>poſe us to be rightly prepared: And as it is
+God's Purpoſe, that without Holineſs no Man ſhall ſee him; ſo the
+very Nature of the Thing, requires all poſſible Sanctifications of Heart
+and Body, to fit us for the Beatifical Viſion.</p>
+            <p n="2">2. Nor may we depend upon Faith, without other Acts of
+Obedience to the Divine Laws; becauſe that Faith muſt needs be Imperfect
+and Ineffectual, which <pb n="10" facs="tcp:51739:7"/> doth not ſerve to Purifie us,
+<hi>as God is pure.</hi>
+            </p>
+            <p n="3">3. Nor may we lay any ſtreſs upon Re<g ref="char:EOLhyphen"/>pentance it ſelf,
+without ſuch Fruits as are meet for it. For where there is not ſuch a
+Renovation of Heart, as is Productive of Reformation of Life, there is no
+Repen<g ref="char:EOLhyphen"/>tance unto Salvation, let the Grief and Re<g ref="char:EOLhyphen"/>morſe of Mind be never ſo
+great.</p>
+            <p n="4">4. Much leſs may we truſt to any out<g ref="char:EOLhyphen"/>ward Severities and
+Mortifications of the Fleſh, without the Sanctification of Heart and Spirit.
+Though this Solemn Paſchal Faſt be of very Ancient Inſtitution, and was
+obſerved in the Primitive Times, to great Purpoſes of Religion, and is of
+great uſe ſtill, where People are careful to anſwer the Ends of it; yet
+no Bodily Exerciſes profit any thing, in compariſon of Subſtantial
+Holineſs. Faſting is a Relative Duty, in<g ref="char:EOLhyphen"/>tended for the mortifying of our
+ſinful Luſts and Affections. It is not alone, and of it ſelf any
+Preparative to Happineſs; nor are <pb n="11" facs="tcp:51739:7"/> thoſe outward
+Penances to be valued at all, which the Folly and Superſtition of later Ages
+have grafted upon it.</p>
+            <p>In ſhort; Conſidering how the Holy Scrip<g ref="char:EOLhyphen"/>ture inculcates the
+neceſſity of a new Heart, a new Spirit, a new Creature, and the like; the
+only Buſineſs we have to do <hi>in this our day, is,</hi> to form in our
+Souls ſuch Divine and Noble Diſpoſitions, as may <hi>make us meet to be
+partakers of the inheritance of God's Saints,</hi> and render a Life in Heaven
+perfectly agree<g ref="char:EOLhyphen"/>able to our own Hearts deſire.</p>
+            <p n="2">2. What thoſe Diſpoſitions are, which are
+neceſſary to Fit and Prepare us for an Hea<g ref="char:EOLhyphen"/>venly State, is the next thing
+to be Conſide<g ref="char:EOLhyphen"/>red. And for the right underſtanding there<g ref="char:EOLhyphen"/>of, it is
+requiſite to enquire a little into the Life of the Bleſſed above,
+becauſe that is the proper Idea and Pattern, according to which we are to
+form thoſe Diſpoſitions I ſpeak of.</p>
+            <p>Not that we can pretend to have Perfect Conceptions of the other
+World. It is a <pb n="12" facs="tcp:51739:8"/> thing we know but little of, becauſe God
+hath not been pleaſed particularly, to Re<g ref="char:EOLhyphen"/>veal the Condition and State of it;
+and therefore we muſt not preſume to pry too nar<g ref="char:EOLhyphen"/>rowly into that Holy of
+Holies, or think to diſcover now all thoſe things which are yet within the
+Veil. <hi>Eye hath not ſeen, nor Ear heard, neither have entred into the
+Heart of man, the things which God hath prepared for them that love him,</hi> 1
+Cor. 2. 9. Yet ſo much God hath Revealed to us by his Spirit, that we have
+reaſon to believe theſe Five following things:</p>
+            <p n="1">1. That the Life of the Bleſſed Saints, is a Life of
+perfect Love and Peace. Though we cannot now diſtinctly conceive, how
+Spi<g ref="char:EOLhyphen"/>rits Converſe with one another, and Com<g ref="char:EOLhyphen"/>municate their Thoughts and
+Affections to one another; becauſe the Notions we have here, come from Idea's
+preſented to our Sen<g ref="char:EOLhyphen"/>ſes, and our Senſes are not fine enough for
+Spiritual Repreſentations; yet it is certain, that entire Harmony, is a great
+Part of the Heavenly State. God himſelf, the Center of Happineſs, is Love.
+And as he Diſplays <pb n="13" facs="tcp:51739:8"/> and Communicates his Love over the
+whole Intellectual World; ſo the Affections of that infinite Hoſt of
+Bleſſed Spirits to him are Reci<g ref="char:EOLhyphen"/>procal, becauſe it is in him that they
+are happy. And becauſe they are all like him, and all love him, and all
+derive their Felicities from him, their mutual Love to each other muſt needs
+be inviolable and univerſal; ſo that Angels and Saints make up but one
+Society, all united together in the ſame Mind, in the ſame Joys, and in the
+ſame common Love of God. Hence the Apoſtle tells us, that <hi>Charity never
+faileth,</hi> 1 Cor. 13. 8. and ſo he ſets it above <hi>Faith</hi> and
+<hi>Hope;</hi> not only becauſe it is of greater Uſe, and ſingularly
+Communi<g ref="char:EOLhyphen"/>cative and Beneficial in this World, but chiefly becauſe it hath this
+peculiar Prerogative, that it is of endleſs Duration in the next.
+<hi>Whe<g ref="char:EOLhyphen"/>ther there be Prophecies, they ſhall fail; whether there be Tongues,
+they ſhall ceaſe; whether there be Knowledge, it ſhall vaniſh away; but
+Charity ſhall never fail;</hi> it will be the everlaſting Ex<g ref="char:EOLhyphen"/>erciſe of
+the <hi>Saints in Light;</hi> their proper and peculiar Employment. Thoſe
+Wars and Fightings, which are among us now, pro<g ref="char:EOLhyphen"/>ceed <pb n="14" facs="tcp:51739:9"/> from
+our Luſts: That Envying and Strife which rageth in this World, is Earthly,
+Senſual, Deviliſh; thoſe Hatreds, and Ani<g ref="char:EOLhyphen"/>moſities, and Diviſions,
+which attend our preſent Warfare, are Effects and Arguments of Carnality.
+When that which is Imperfect ſhall be done away, a Perfect State of Love, and
+Unity, and Concord, will be at once the Portion and the Happineſs of the
+Tri<g ref="char:EOLhyphen"/>umphant.</p>
+            <p n="2">2. The Life of <hi>the Saints in Light,</hi> is a Life of
+Devotion. By Devotion, I mean, the offering up of the Soul to God, from a
+lively ſenſe of the glorious Excellencies of his Nature, and of his
+boundleſs Goodneſs to his Creatures. Whether the Saints departed do offer
+up any Prayers unto God, is a thing un<g ref="char:EOLhyphen"/>certain. Though ſome Proteſtants are
+in<g ref="char:EOLhyphen"/>clined to think, as a probable Matter, that out of a Principle of Charity,
+they pray in general for the Church Militant; yet that they pray for particular
+Perſons, or in particular Caſes; or that they pray as Mediators; or that
+they are to be prayed to themſelves; all <pb n="15" facs="tcp:51739:9"/> this we utterly
+deny. But it is a Truth un<g ref="char:EOLhyphen"/>queſtionable, that they Adore the God of Heaven,
+in ſuch a way as is ſuitable to a State of Bliſs and Perfection: Admiring
+the Glories of his Nature, extolling His Maje<g ref="char:EOLhyphen"/>ſty, Praiſing him
+continually, and never reſting from giving him Thanks, for the In<g ref="char:EOLhyphen"/>finite
+Riches of his Grace and Goodneſs. This appears from many Paſſages in St.
+<hi>John</hi>'s Revelation, where the Four Beaſts are ſaid, not to reſt
+Day or Night, ſaying, <hi>Holy, Holy, Holy, Lord God Almighty;</hi> and the
+Four and twenty Elders are ſaid to fall down before him that ſat on the
+Throne, and to Worſhip him that <hi>liveth for ever and ever;</hi> and with
+Harps and Golden Vials full of Odours, to <hi>Sing a new Song unto the
+Lamb:</hi> And the Angels them<g ref="char:EOLhyphen"/>ſelves, with the Beaſts and Elders, are
+ſaid, to Worſhip God, ſaying, <hi>Amen: Bleſſing, and Glory, and
+Wiſdom, and Thankſgiving, and Ho<g ref="char:EOLhyphen"/>nour, and Power, and Might, be unto our
+God;</hi> and the like. For though this was a Viſiona<g ref="char:EOLhyphen"/>ry Repreſentation,
+not a ſet Hiſtory of the particular State of Heaven; yet the Analogy it
+bears to it, plainly ſhews, that the Spirits <pb n="16" facs="tcp:51739:10"/> of Juſt
+Men made Perfect, do, with the Bleſſed Angels, make up one Heavenly Chorus,
+to Adore the Infinite Majeſty of God; and to chant out Praiſes and
+Hallelu<g ref="char:EOLhyphen"/>jahs unto him to Everlaſting Ages.</p>
+            <p n="3">3. And hence it follows, Thirdly, That the Life of <hi>the
+Saints in Light,</hi> is a Life of the moſt Divine Contemplation alſo. For
+this is the Ground of that Adoration and Worſhip which is paid to the Creator
+of all things; and ſo St. <hi>John,</hi> ſpeaking of the Day of Appearance,
+tells us, That <hi>then we ſhall ſee God as he is,</hi> 1 Jo. 3. 2. <hi>For
+now we ſee through a glaſs, darkly, but then, face to face,</hi> ſaith
+St. <hi>Paul,</hi> 1 <hi>Chr.</hi> 13. 12. and again, <hi>Then ſhall I know,
+even as alſo I am known.</hi> By which ſeveral Expreſſions it is
+evident, that though the Saints of God have very imper<g ref="char:EOLhyphen"/>fect Conceptions and
+Glimpſes of him in this Mortal Life, and though it is impoſſible for
+them, being Finite Creatures, to have an Adaequate and Comprehenſive
+Knowledge of him in any State whatſoever; yet when the Glory of God ſhall
+be Revealed in them, <pb n="17" facs="tcp:51739:10"/> they ſhall clearly and cloſely
+perceive every thing that is knowable of God; with the moſt raviſhing
+ſatisfaction, ſhall Contem<g ref="char:EOLhyphen"/>plate the Beauties and Glories of his
+Eſſence; and as fully, as 'tis poſſible, underſtand his Perfections,
+together with the aſtoniſhing Reaſons of his Decrees and Operations.
+Whatever Notions our Souls have of God in this Life, we are fain to gather by
+looking into the Glaſs of his Creation, and of his Word, as the Means of
+ſeeing what we are able to diſcover: And that Imperfect Viſion we have,
+is but a Reflex Viſion, by the help of weak Conſideration and
+Diſcourſe. And hence it is, that our Apprehenſions are ſo childiſh in
+Compariſon; we Argue like Chil<g ref="char:EOLhyphen"/>dren; Speak like Children, and Underſtand
+like Children, whoſe Conceptions are rather Dreams and Fancies, than the
+Reſults of So<g ref="char:EOLhyphen"/>lid and Man-like Reaſon. But when that which is imperfect is
+done away, the Soul is bleſt with a direct and immediate view of God; with a
+clear Underſtanding of the Ex<g ref="char:EOLhyphen"/>cellencies of his Nature, how Wiſe and
+Juſt, and Good and Powerful God is, and how <pb n="18" facs="tcp:51739:11"/> wonderfully
+Righteous and Gracious in all his Works.</p>
+            <p n="4">4. From this clear and intimate Know<g ref="char:EOLhyphen"/>ledge which the
+<hi>Saints in Light</hi> enjoy, it fol<g ref="char:EOLhyphen"/>lows yet further, that their Life there
+is a Life of Purity; becauſe St. <hi>Paul</hi> tells us, that <hi>without
+Holineſs no Man ſhall ſee the Lord,</hi> Heb. 12. 14. and our Saviour's
+Promiſe of ſeeing God, particularly belongs to ſuch as are <hi>Pure in
+heart,</hi> Math. 5. 8. We come into this World unclean from the very Womb; and
+as we grow up, we contract a great deal more Filthineſs of Fleſh and
+Spirit, by med<g ref="char:EOLhyphen"/>ling too much with the World; and by ſuf<g ref="char:EOLhyphen"/>fering our fooliſh
+Appetites to run out after the Corruptions of it. To Cleanſe and Sanctifie
+our Souls, and ſo to fit them for a Life of Bliſs and Perfection with
+himſelf, is the great Work of God here. And this he does by the Miniſtry of
+his Holy Word; by the uſe of Holy Sacraments; by the in<g ref="char:EOLhyphen"/>ward Motions and
+Operations of his Holy Spirit, and by that variety of Holy Laws which he hath
+laid before us. And hence it <pb n="19" facs="tcp:51739:11"/> is, that there are ſo many
+Vertues pro<g ref="char:EOLhyphen"/>poſed to our Practice, proper and peculiar to this Mortal State,
+wherein we are ſurrounded with Miſery and Temptation; as, Modera<g ref="char:EOLhyphen"/>tion,
+Temperance, Meekneſs, Self-denyal, Patience, Fortitude, Juſtice,
+Submiſſion, and the like. For though theſe Vertues are high<g ref="char:EOLhyphen"/>ly
+conſonant to Human Reaſon; yet the great Advantage they bring in order to a
+fu<g ref="char:EOLhyphen"/>ture Life, is the moſt conſiderable Excellen<g ref="char:EOLhyphen"/>cy of them; for all theſe
+ſerve in their ſeve<g ref="char:EOLhyphen"/>ral kinds, and in a great meaſure; ſome to ſubdue
+and tame our wild Spirits, and to prepare them for a Life of everlaſting
+Peace; others to mortifie us, and make us weary of our Luſts; others to curb
+and bridle our Paſ<g ref="char:EOLhyphen"/>ſions; others to defend us from Temptati<g ref="char:EOLhyphen"/>ons; others to
+wean our Affections off from the World; all of them to Spiritualize our
+Natures, to ſcour us from our Droſs and Tin; and in one reſpect or other,
+ſo to purge the Soul, that when it goes out of the World, being ſprinkled
+with the Blood of Chriſt, it appears Pure and without Blemiſh in that
+Heavenly Sanctuary, whither nothing <pb n="20" facs="tcp:51739:12"/> that is Unclean can
+come. This is that Ho<g ref="char:EOLhyphen"/>lineſs and Purity of Heart, which prepares the Saints
+for the ſeeing of God. And as this Pure State fits them for the Beatifical
+Viſion; ſo doth the Beatifical Viſion fix and confirm them in that State,
+and renders it unchangeable. The Reaſon is, becauſe all manner of
+Perfection which the Heart of Man can deſire, being in God, and in God only,
+every Soul, that is with him, muſt needs be ſatisfied to the full; and the
+Under<g ref="char:EOLhyphen"/>ſtanding and Affections muſt of neceſſity be ſo employed and
+fixt upon him, that the Will cannot poſſibly be averted from Enjoy<g ref="char:EOLhyphen"/>ments,
+ſo infinitely Perfect and Satisfactory. The very Nature and Condition of that
+Bleſ<g ref="char:EOLhyphen"/>ſed State, cannot permit any Souls to wan<g ref="char:EOLhyphen"/>der, in the leaſt, from an
+Infinite Good; and therefore they muſt Everlaſtingly con<g ref="char:EOLhyphen"/>tinue Pure and
+Spotleſs; like the Holy Lamb of God, whoſe Will was perfectly Conformable
+to the Will of his Father; <hi>Who knew no Sin, neither was any Guile to be
+found in his Mouth.</hi>
+            </p>
+            <p n="5">
+               <pb n="21" facs="tcp:51739:12"/> 5. Beſides theſe Poſitive
+Felicities, which <hi>the Saints in Light</hi> enjoy, I think there is but one
+particular Thing more which is Reveal<g ref="char:EOLhyphen"/>ed to us, of their Life in Heaven, and
+that is, That they bear a Reſemblance and Si<g ref="char:EOLhyphen"/>militude of God himſelf. Thus
+St. <hi>John</hi> tells us, 1 Jo. 3. 2. <hi>Beloved, now are we the Sons of
+God, and it doth not yet appear</hi> (that is, it doth not yet diſtinctly and
+fully appear) <hi>what we ſhall be: but we know, that when he ſhall appear,
+we ſhall be like him; for we ſhall ſee him as he is.</hi> Some render the
+Words, <hi>when it ſhall appear,</hi> (meaning when our fu<g ref="char:EOLhyphen"/>ture State ſhall
+come) <hi>we ſhall be like God;</hi> and indeed it ſeems to be the more
+natural Reading: We ſhall be like God in all man<g ref="char:EOLhyphen"/>ner of Glory, according to
+the Capacities of Finite Beings; and ſaving the Difference that ever muſt
+be between God and Crea<g ref="char:EOLhyphen"/>tures. We ſhall be like him in a Divine and Immortal
+Life; this Frail Animal Life being quitted, and changed into a Spiritual one,
+and Corruption being ſwallowed up of In<g ref="char:EOLhyphen"/>corruption. But the greateſt
+Happineſs will <pb n="22" facs="tcp:51739:13"/> be, that we ſhall be like him in the
+Divine Perfections and Excellencies of his Mind; without any Error in the
+Underſtanding; with<g ref="char:EOLhyphen"/>out any obliquity in the Will; without any Diſorder in
+the Affections; there will be a perfect Rectitude in our Nature, Reſemb<g ref="char:EOLhyphen"/>ling
+in all poſſible Degrees, thoſe Perfections which are in the ever
+Bleſſed God, who is ab<g ref="char:EOLhyphen"/>ſolutely Righteous, Holy, and Good.</p>
+            <p>Now by what is thus Revealed to us, con<g ref="char:EOLhyphen"/>cerning the State of
+<hi>the Saints in Light,</hi> we may eaſily perceive what Diſpoſitions of
+Soul are neceſſary to be in us, to fit and prepare us for a Bleſſed
+Portion with them, <hi>viz.</hi> The ſame Divine and Heavenly
+Diſpoſitions, which the <hi>Saints in Light</hi> have, ſuch Qualities and
+Habits of Mind we muſt have here; ſuch an Heavenly Converſation we muſt
+be<g ref="char:EOLhyphen"/>gin here; ſuch a Frame and Temper of Heart we muſt carry with us to the
+Grave; becauſe, as our Inclinations and Affections are, when we go out of
+this World, ſo they will be for ever.</p>
+            <p>
+               <pb n="23" facs="tcp:51739:13"/> I obſerved before, That ſome Vertues are
+peculiar to our preſent Circumſtances, to this Weak, Mortal and Militant
+Condition: Even thoſe Vertues we muſt be careful to grow and proceed in
+now, becauſe they help, every one of them in its kind, and in ſome
+mea<g ref="char:EOLhyphen"/>ſure, to prepare us for a better State. But becauſe the Life of <hi>the
+Saints in Light,</hi> doth immediately conſiſt in the exerciſe and
+vigo<g ref="char:EOLhyphen"/>rous Activity of ſuch Diſpoſitions, as are pro<g ref="char:EOLhyphen"/>per to a Glorious and
+Perfect State; there<g ref="char:EOLhyphen"/>fore our great Study and Buſineſs in this World
+ſhould be, to enrich and adorn our Souls with thoſe Diſpoſitions
+chiefly, and to make them habitual to us, by the familiar and delightful
+Practice of them now; that we may be in Heaven, as in our proper Ele<g ref="char:EOLhyphen"/>ment; that
+the Society of Saints and An<g ref="char:EOLhyphen"/>gels may be to our Hearts Deſires; and that the
+Condition of the other World may be ſuch as we would be in; ſuch as we may
+be in Love with; ſuch as we may enjoy with the higheſt Pleaſure and
+Satisfaction. Were we caught up, with St. <hi>Paul,</hi> into the
+<pb n="24" facs="tcp:51739:14"/> Third Heaven; or could we climb up ot the top of ſome
+ſolitary Mountain, there to pull out of our Sides, all thoſe Briars and
+Thorns, which <hi>Adam</hi> left us; and throw our Griefs and Troubles away all
+at once, and ſo take our flight into thoſe Happy Regions above: Good God!
+What an Orderly, Quiet and Harmonious World, ſhould we find there? What a
+Family of Love? What a Conſort of Devout Spirits? What an Angelical Hoſt,
+with Ecſtaſies and Raptures, beholding the Face of God? What a Glorious
+Church, not having Spot or Wrinkle, or any ſuch thing, but Holy and without
+Blemiſh; every Soul there reſembling the Holy one of <hi>Iſrael,</hi> in
+Bliſs and Sanctity?</p>
+            <p n="3">3. Therefore, that we may <hi>be meet to be partakers of the
+inheritance of the Saints in Light,</hi> we muſt, above all things,
+accuſtom our ſelves to the delightful Practice of thoſe Heavenly Graces,
+which are to be our Life in that day: To fill our Hearts with an entire Love of
+God and Man; to have fervent and perfect Charity among our ſelves: to
+<pb n="25" facs="tcp:51739:14"/> lay aſide all Malice and Bitterneſs of Mind: to keep
+the Unity of the Spirit in the Bond of Peace: to put on, as the Elect of God,
+Bowels of Mercy and Kindneſs: to love the Habitation of God's Houſe, and
+the Place where his Honour dwelleth here below; to Pray without ceaſing, and
+to be continually in the Temple, Praiſing and Bleſſing God in a great
+Congregation: To have God always in our Thoughts, increaſing daily in the
+Knowledge of him, and being filled with it in all Wiſdom and Spiritual
+Underſtanding: To cleanſe our ſelves from all filthineſs of Fleſh and
+Spirit; and for the Perfecting of Holineſs in the Fear of God, to be like
+him, as much as 'tis poſſible, even in this World; to be, as he is, and, by
+beholding, as in a Glaſs, the Glory of the Lord; to be changed into the
+ſame Image, from Glory to Glory, from one Degree of it to another.</p>
+            <p>So much as we have of theſe Vertues and Perfections now, ſo
+much we have of Hea<g ref="char:EOLhyphen"/>ven in our Poſſeſſion already. This we ſhould
+mind therefore, as the only thing we <pb n="26" facs="tcp:51739:15"/> are to mind, as long
+as we breathe; becauſe our Eternal Fortunes depend upon ſuch a
+Diſpoſition and Temper, as I ſpeak of now. It doth not only Inſure our
+Title to the <hi>Saints Inheritance,</hi> but it likewiſe renders our
+En<g ref="char:EOLhyphen"/>trance into it very Eaſie, and as it were Na<g ref="char:EOLhyphen"/>tural unto us. And this is
+the higheſt Ad<g ref="char:EOLhyphen"/>vantage we get by the ſincere Practice and Love of Religion.
+Though it is a ſecurity to us againſt all the Dangers of this Life, and
+againſt all our Enemies round about us, becauſe it Intitles us to God's
+Particular Pro<g ref="char:EOLhyphen"/>vidence and Protection: Though it always brings with it ſuch
+Comfort and Peace of Mind, as is a kind of Heaven to us in the greateſt
+Diſtreſs; and though it fortifies us againſt the Approach of Death, which
+is ſo unwelcom to Nature, and ſo terrible to Fleſh and Blood; yet our
+delighting in the Ways of Vertue and Piety, brings us an Advan<g ref="char:EOLhyphen"/>tage beyond all
+theſe: It prepares us for a Bleſſed Life to that Degree, that after Death
+we ſhall be fit for no other State, but the Society of Saints, and the
+En<g ref="char:EOLhyphen"/>joyment of God. And herein lies the <pb n="27" facs="tcp:51739:15"/> extream Folly of
+Lewd and Profligate Wretches, that while others are laying up in ſtore ſuch
+excellent Securities againſt the Time to come, that they may attain Eternal
+Life; theſe are Treaſuring up all the Wrath and Vengeance they can, and
+prepare that Hell for themſelves, which God Originally prepared only for the
+Devil and his Angels. Whither can we ſuppoſe A<g ref="char:EOLhyphen"/>theiſtical Spirits fit to
+go, but to that dreadful Place, where they will be forced to Believe, as the
+Devils do, with Trem<g ref="char:EOLhyphen"/>bling and Deſperation? Or, whither can Men of Black
+Deſigns, of Turbulent Spirits, of Miſchievous Diſpoſitions, and
+Malicious Minds; Whither, think ye, can they be fit to go, but to their
+Confede<g ref="char:EOLhyphen"/>rates in Iniquity, thoſe Spirits of Dark<g ref="char:EOLhyphen"/>neſs, which are a Plague
+and Torment to themſelves, as well as to the World? Hea<g ref="char:EOLhyphen"/>ven can be no Place
+for ſuch Deviliſh Na<g ref="char:EOLhyphen"/>tures: Neither will God's Decree, nor can the Nature
+of the Thing it ſelf allow it. It is impoſſible for the Saints of God,
+and the Sons of <hi>Belial,</hi> to be Joint-Heirs with <pb n="28" facs="tcp:51739:16"/>
+Chriſt: There would be another War in Heaven; becauſe there is ſuch an
+utter An<g ref="char:EOLhyphen"/>tipathy in the Minds of Wicked Men to the Life of the Bleſſed.</p>
+            <p>As therefore it is high Preſumption in thoſe of the
+<hi>Romiſh</hi> Faith, to truſt to the Merits and Interceſſion of
+Saints, and to I know not how many Superſtitious and Trifling Performances of
+their own, for their future Happineſs; ſo it would be great Vanity in us,
+to depend either upon the Purity of that Religion we profeſs, or upon the
+Power, Mercy, and Will of God himſelf, without thoſe inward
+Diſpoſitions and Habits of Mind, which are neceſſary <hi>to make us
+meet to be partakers of the inheritance of the Saints in Light.</hi> For,
+though we are ſaved by Grace; though all that we can do or be, cannot, by any
+intrinſick Dignity and Excellence in the Thing, deſerve ſo great a
+Recompenſe of Reward, as is re<g ref="char:EOLhyphen"/>ſerved for us; yet the Entire and Practical
+love of thoſe things, which are Honeſt, Juſt, Pure, Lovely, and of Good
+Report, is the <pb n="29" facs="tcp:51739:16"/> fixt and neceſſary Condition, without
+the Performance whereof, we cannot be truly Happy; 'tis that which muſt
+prepare us for the Eternal Poſſeſſion of our Inheritance; that which
+muſt diſpoſe and fit us for the Divine Mercy; that which muſt render us
+capable of ſeeing and relliſhing the Great Goodneſs of God in the Land of
+the Li<g ref="char:EOLhyphen"/>ving.</p>
+            <p>To Conclude, It is natural to ask, <hi>What ſhall we do to be
+ſaved?</hi> An Enquiry which we ſhould often conſider of, and not lay it
+aſide, as we are apt to do, till we are poſſeſt with the Pains and
+Frights of a Death-Bed. Now, this is the right and certain Way, ſo to mind
+the Things which concern our E<g ref="char:EOLhyphen"/>verlaſting Peace, and are Preparatives to it,
+that the Practice of them may be Familiar and Delightful to us: To addict our
+ſelves to the Love and Exerciſe of all manner of Vertues; and to riſe
+every Day to higher and higher Degrees in the Exerciſe of it. All this is
+neceſſary, to diſpoſe and fit us for Perfect Happineſs. This is to
+taſte of <pb n="30" facs="tcp:51739:17"/> Heaven, and to reliſh the Pleaſures of it
+before hand; which we never can be ſatisfied with, except they be ſuitable
+and pleaſing to our Appetites now. Thoſe ſenſual and groſs Delights,
+which Carnal Men hunt and reach after ſo greedily, would be nothing at all to
+them, were they not agreeable to their Bodily Senſes. And this is the
+Reaſon of that diffe<g ref="char:EOLhyphen"/>rence, between the Pleaſures of a Brute Beaſt, and
+thoſe which are proper to Man; becauſe the Organs of Senſation are of a
+different Contexture. And this is the Rea<g ref="char:EOLhyphen"/>ſon too, of the difference between
+the De<g ref="char:EOLhyphen"/>lights of an ordinary Man, and thoſe which a Philoſopher enjoys;
+becauſe there is ſuch a vaſt difference between Fleſh and Spirit; the
+Senſe is for one thing, the Mind and Reaſon is for another. And thus a
+Saint differs too from a common Philoſopher; the one minds Nature, and
+ſeeks no further nor higher than this World; the other pants after Heaven,
+and nothing can ſatisfie or anſwer his Deſires, but thoſe Divine
+Plea<g ref="char:EOLhyphen"/>ſures <hi>which are at the right hand of God.</hi> Thus, <hi>to be
+ſpiritually minded, is life and peace,</hi> as <pb n="31" facs="tcp:51739:17"/> St.
+<hi>Paul</hi> diſcourſeth, <hi>Rom.</hi> 8. 6. It is the ready way to it,
+the true Preparation for it; the Pledge and Earneſt of it indeed; and, as it
+were, the Livery and Seiſin of <hi>the inhe<g ref="char:EOLhyphen"/>ritance of the Saints in Light;
+Which I beſeech God to give unto us all, for Chriſt Jeſus his ſake; to
+whom with the Father and the Holy Ghoſt, be all Honour, Glory and
+Thankſgiving, World without End.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
